@@ -1,0 +1,24 @@
+.унитаз {
+    position: absolute;
+    margin-left: 500 auto;
+    padding-left: 10000px;
+    opacity:50%;
+ }
+ body { 
+   background-color: black;
+    color: black;
+ }
+ .текст {
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 100px;
+ }
+.текст2 {
+    position: relative;
+    left:0; right: 0; bottom: 0;
+    margin-left: 10000px;
+    margin-top: 220px;
+    color: darkblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 69px;
+}
