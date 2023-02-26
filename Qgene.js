@@ -1,1 +1,7 @@
-console.log("hello,World")
+class Qgene {
+    constructor(){}
+    play(){
+        document.getElementById("фефь").play(); 
+     }
+    
+}
